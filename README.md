@@ -51,12 +51,12 @@ This project combines **AI, cloud storage, and payments** into one seamless app 
 ---
 
 ## 📸 Preview
-```bash
 <p align="center">
-  <img src="./screenshots/home.png" width="250" />
-  <img src="./screenshots/generate.png" width="250" />
-  <img src="./screenshots/payment.png" width="250" />
-</p>```
+  ![Home](./screenshots/home.png) &nbsp;
+  ![Generate](./screenshots/generate.png) &nbsp;
+  ![Payment](./screenshots/payment.png)
+</p>
+
 
 ---
 
