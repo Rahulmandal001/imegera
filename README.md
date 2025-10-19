@@ -53,7 +53,7 @@ This project combines **AI, cloud storage, and payments** into one seamless app 
 ## 📸 Preview
 ![image alt](https://github.com/Rahulmandal001/imegera/blob/89e6e076f465bcc42e6a33da9290f85b86dc8dbf/Screenshot%202025-10-14%20203151.png)
 ![image alt](https://github.com/Rahulmandal001/imegera/blob/648935c55163e81c1de60c46fa03c85d24d3ad12/Screenshot%202025-10-14%20203237.png)
-![image alt]()
+![image alt](https://github.com/Rahulmandal001/imegera/blob/f878f864faa6155e3b5748a4a759919dcfb36690/Screenshot%202025-10-14%20204708.png)
 
 
 ---
