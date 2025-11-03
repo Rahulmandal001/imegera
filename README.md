@@ -84,30 +84,25 @@ npm run dev
 ```
 
 
-🔑 Environment Variables
+### 🔑 Environment Variables
 
-Create a .env file inside your backend folder and add the following:
+Create a `.env` file inside your backend folder and add the following:
 
-Variable	Description
-MONGODB_URI	MongoDB connection string
-JWT_SECRET	Secret key for JWT tokens
-CLIPDROP_API	API key for AI image generation
-RAZORPAY_KEY_ID	Razorpay API key ID
-RAZORPAY_KEY_SECRET	Razorpay secret key
-CURRENCY	Payment currency (e.g., INR)
+| Variable            | Description                     |
+| ------------------- | ------------------------------- |
+| MONGODB_URI         | MongoDB connection string       |
+| JWT_SECRET          | Secret key for JWT tokens       |
+| CLIPDROP_API        | API key for AI image generation |
+| RAZORPAY_KEY_ID     | Razorpay API key ID             |
+| RAZORPAY_KEY_SECRET | Razorpay secret key             |
+| CURRENCY            | Payment currency (e.g., INR)   |
+
 
 
 
 ###🧠 System Architecture
 
-Frontend (Vercel)
-      │
-      ▼
-Backend (Render)
-      │
- ┌────┼──────────┐
- ▼    ▼          ▼
-MongoDB  Razorpay  ClipDrop
+<pre> ```text ┌─────────────┐ │ Frontend │ │ (Vercel) │ └─────┬───────┘ │ ▼ ┌─────────────┐ │ Backend │ │ (Render) │ └─────┬───────┘ ┌─────────┼─────────┐ ▼ ▼ ▼ MongoDB Razorpay ClipDrop ``` </pre>
 
 
 ###🪄 Developer Notes
@@ -140,7 +135,7 @@ Designed a clean, responsive layout for better accessibility
 
 👨‍💻 Rahul Mandal
 
-💼 [LinkedIn](https://www.linkedin.com/in/rahul-mandal)
+💼 [LinkedIn](https://www.linkedin.com/in/rahul-mandal-4a3a752b3/)
 
 🐙 [GitHub](https://github.com/Rahulmandal001)
 
