@@ -140,4 +140,5 @@ Designed a clean, responsive layout for better accessibility
 📧 [Email](mailto:therahulmandal001@email.com)
 
 
+
 <p align="center">🚀 Crafted with ❤️ by <b>Rahul Mandal</b> — turning imagination into visuals with <b>imegera</b>.</p>
