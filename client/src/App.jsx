@@ -7,7 +7,7 @@ import BuyCredit from './pages/BuyCredit'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import Login from './components/Login'
-import { AppContext } from './context/AppContext';
+import { AppContext } from './context/appContext';
 
 
 const App = () => {
