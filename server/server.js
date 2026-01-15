@@ -18,4 +18,8 @@ app.use('/api/user', userRouter)
 app.use('/api/image', imageRouter)
 app.get('/', (req, res)=> res.send("API Working"))
 
+app.get('/health', (req, res) => {
+res.status(200).send('OK')
+})
+
 app.listen(PORT, ()=> console.log('server running on port' + PORT));
