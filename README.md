@@ -60,8 +60,8 @@ This project combines **AI, cloud storage, and payments** into one seamless app 
 
 ## 🚀 Live Demo
 
-🌐 **Frontend (Vercel):** [https://imegera.vercel.app]()  
-⚙️ **Backend (Render):** [https://imegera-server.onrender.com]()
+🌐 **Frontend (Vercel):** [Visit frontend](https://imegera.vercel.app)  
+⚙️ **Backend (Render):** [Visit backend](https://imegera-server.onrender.com)
 
 ---
 
