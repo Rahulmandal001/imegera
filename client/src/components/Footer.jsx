@@ -10,7 +10,7 @@ const Footer = () => {
 
         <div className='flex gap-2.5'>
             <img src={assets.facebook_icon} alt="" width={35} />
-            <img src={assets.twitter_icon} alt="" width={35} />
+            <img src={assets.twitter_icon} alt="https://x.com/RahulManda89446" width={35} />
             <img src={assets.instagram_icon} alt="" width={35} />
         </div>
       
